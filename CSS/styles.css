@@ -1,9 +1,21 @@
-	.center { 
+	#navbar { 
 	   text-align: center;
 	}
 	
-	#cent {
-		text-align: center;
+	#navigation {
+		background-color: red;
+	}
+	
+	#navigation ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		display: inline-block;
+		vertical-align: top; 
+	}
+	
+	#navigation ul li {
+		float: left;
 	}
 	
 	h1 {
