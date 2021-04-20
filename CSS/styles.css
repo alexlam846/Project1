@@ -18,6 +18,19 @@
 		float: left;
 	}
 	
+	#navigation ul li a {
+		display: block;
+		padding: 10px 20px;
+		color: #fff;
+		text-decoration: none;
+	}
+	
+	#navigation ul li a: hover {
+		background-color: #000;
+	}
+	
+	
+	
 	h1 {
 		color: blue;
 		background-color: rgb(050, 050, 050);
