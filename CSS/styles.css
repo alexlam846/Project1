@@ -1,3 +1,8 @@
+	.container {
+		width: 100%;
+		overflow: hidden;
+	}
+	
 	#navbar { 
 	   text-align: center;
 	}
@@ -7,7 +12,7 @@
 	}
 	
 	#navigation ul {
-		list-style-type: none;
+	    list-style-type: none;
 		margin: 0;
 		padding: 0;
 		display: inline-block;
