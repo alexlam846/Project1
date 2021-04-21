@@ -36,20 +36,14 @@
 	
 	#contacts {
 		font-family: 'Playfair Display', serif;
-	
-	
-	h1 {
-		color: blue;
-		background-color: rgb(255, 255, 000);
-		font-family: verdana;
-		float: center;
-		font-size: 2em;
-		margin: 5px 5px;
 	}
 
 	#style1 {
 		font-size: 5em;
-		color: rgb(2554, 255, 255);
+		color: rgb(255, 255, 255);
 	}
 	
-	
+	#style2 {
+		font-size: 3em;
+		color: rgb (255, 255, 000); 
+		
