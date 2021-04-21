@@ -15,7 +15,7 @@
 	}
 	
 	#navigation ul li {
-		float: center;
+		float: left;
 	}
 	
 	#navigation ul li a {
@@ -29,6 +29,8 @@
 		background-color: #000;
 	}
 	
+	#contacts {
+		font-family: 'Playfair Display', serif;
 	
 	
 	h1 {
